@@ -1,0 +1,59 @@
+body{
+    margin: 10px;
+    background-image: url("../img/bg3.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 1800px;
+    padding:50px;
+}
+
+    h1 {
+    display: block;
+    font-size: 2em;
+    -webkit-margin-before: 0.67em;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+    text-shadow: 10px solid black;
+
+
+}
+
+
+.container{
+    width:600px;
+    height: 800px;
+    text-align: center;
+    background-color: rgba(52, 73, 94, 0.7);
+    border-radius: 40px;
+    margin: 0 auto;
+    padding:130px;
+    padding-bottom: 250px;
+    margin-top: 150px
+
+    
+
+}
+
+.container img{
+    width: 170px;
+    height: 170px;
+    border-radius: 15px;
+    margin-top: -60px;
+    margin-bottom: 30px;
+}
+
+input[type="text"],input[type="password"]{
+    height: 75px;
+    width: 600px;
+    font-size: 25px;
+    margin-bottom: 50px;
+    border-radius: 15px;
+    background-color: #fff;
+    padding-left: 30px;
+    
+    }
+
+  
+
+    
